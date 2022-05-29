@@ -1,3 +1,13 @@
+# UI for project r3  
+This is the front-end UI for r3
+## Usage
+### If you are not running nvm 1.1.9 or latter
+- [update](https://github.com/coreybutler/nvm-windows) nvm to 1.1.9
+- uninstall and reinstall node 16.15.0 or latter using nvm
+### Getting Started
+1. Have the [backend](https://github.com/CodyMcCarty/r3) running 
+1. `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
